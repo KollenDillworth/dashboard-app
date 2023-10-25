@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "GMRewards",
+        "status": "Y",
+        "number": "142635",
+        "description" : "Rewards application"
+    },
+    {
+        "id": "2",
+        "name": "POP",
+        "status": "Y",
+        "number": "170212",
+        "description" : "POP application"
+    },
+    {
+        "id": "3",
+        "name": "Goodwill",
+        "status": "Y",
+        "number": "192993",
+        "description" : "Goodwill application"
+    },
+    {
+        "id": "4",
+        "name": "DRMP",
+        "status": "N",
+        "number": "170221",
+        "description" : "DRMP application"
+    },
+    {
+        "id": "5",
+        "name": "Axiom",
+        "status": "N",
+        "number": "999999",
+        "description" : "Axiom application"
+    }
+]
